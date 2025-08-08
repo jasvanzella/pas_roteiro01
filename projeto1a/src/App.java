@@ -1,4 +1,5 @@
 //comentario inserido na branch main
+//bug resolvido
 
 public class App {
     public static void main(String[] args) {
